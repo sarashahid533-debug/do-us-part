@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ticket mission</title>
+</head>
+
+<body>
+
+    <h1>Welcome to my rocket mission</h1>
+
+    <p>Today, our rocket is getting ready to launch in the space</p>
+
+    <h2>Step 1:Meet the rocket</h2>
+    <img src="C:\Users\WIN-11\Downloads\rocket png.webp" alt="A rocket ready to launch" width="350" height="350">
+
+    <p>This rocket can definetly take us in new planet</p>
